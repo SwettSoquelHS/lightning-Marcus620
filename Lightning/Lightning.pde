@@ -11,7 +11,6 @@ void setup() {
   endY = 0;
   background(0, 0, 0);
   strokeWeight(2);
-  cloud.resize(300,160);
 }
 void draw() {
   //stroke(random(0, 250), random(0, 250), random(0, 250), (int) Math.random() * 10);
