@@ -28,4 +28,5 @@ void mousePressed() {
   startY = 0;
   endX = 0;
   endY = 0;
+  clear();
 }
